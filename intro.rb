@@ -9,7 +9,7 @@ end
 path = ARGV[0]
 kind = ARGV[1]
 
-intros = "Hello, I'm Saburo.\n"
+intros = "Hello, I'm Shiro.\n"
 
 case kind
 when "account"
